@@ -10,8 +10,6 @@ A server test project for Ares.
 ## Node Version
 This application was built with node 8.9.1. Earlier versions may work, but to guarantee functionality please download [node v8.9.1](https://nodejs.org/en/) or later.
 
-## Screen Shots
-![map](./screenshots/map.png)
 
 ## Data
 You will need to place marker data into your own database or query the API with JSON data. Marker data needs to be in the format of
