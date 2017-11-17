@@ -5,7 +5,7 @@ A server test project for Ares.
 1. Clone this repo and run npm install on your local machine.
 2. You'll need to setup an instance of [MongoDB](https://www.mongodb.com/) and run it.
 3. If you set up the database on anything but the local host, then you'll need to create a file in the server folder called '.env' and insert `DATABASE_URL:YOUR_DATABASE_PATH` inside.
-5. Run npm run start to run the project, server will run and begin accepting queries.
+5. Run `npm run start` to run the project, server will run and begin accepting queries.
 
 ## Node Version
 This application was built with node 8.9.1. Earlier versions may work, but to guarantee functionality please download [node v8.9.1](https://nodejs.org/en/) or later.
